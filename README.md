@@ -9,52 +9,50 @@
 
 ### Languages & Frameworks
 
-<a href="https://kotlinlang.org/"><img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" width="40"/></a>
-<a href="https://www.java.com/"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40"/></a>
-<a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40"/></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40"/></a>
-<a href="https://dotnet.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/c-sharp.png" alt="C#" width="40"/></a>
-<a href="https://visualstudio.microsoft.com/vs/"><img src="https://img.icons8.com/color/48/000000/visual-basic.png" alt="Visual Basic" width="40"/></a>
-<a href="https://www.w3.org/Style/CSS/"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40"/></a>
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual_Basic-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks
 
-<a href="https://spring.io/"><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="40"/></a>
-<a href="https://www.oracle.com/java/technologies/persistence-jsp.html"><img src="https://img.icons8.com/color/48/000000/java-architecture.png" alt="JPA" width="40"/></a>
-<a href="https://hibernate.org/"><img src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate" width="40"/></a>
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-%234682B4.svg?style=for-the-badge&logo=java&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%234D4D4D.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ### AI & Machine Learning
 
-<a href="https://pytorch.org/"><img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" width="40"/></a>
-<a href="https://scikit-learn.org/"><img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="scikit-learn" width="40"/></a>
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Game Development
 
-<a href="https://unity.com/"><img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity" width="40"/></a>
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Mobile Development
 
-<a href="https://developer.android.com/"><img src="https://img.icons8.com/color/48/000000/android.png" alt="Android" width="40"/></a>
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 
 ### DevOps
 
-<a href="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40"/></a>
-<a href="https://www.postgresql.org/"><img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" width="40"/></a>
-
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Databases
 
-<a href="https://www.mysql.com/"><img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="40"/></a>
-<a href="https://www.postgresql.org/"><img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" width="40"/></a>
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Version Control
 
-<a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40"/></a>
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 📈 Connect with Me
-
 
 - [LinkedIn](https://www.linkedin.com/in/ziv-shamli-86683224a/)
 
