@@ -39,7 +39,8 @@
 ### DevOps
 
 <a href="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40"/></a>
-<a href="https://www.linux.org/"><img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40"/></a>
+<a href="https://www.postgresql.org/"><img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PostgreSQL" width="40"/></a>
+
 
 ### Databases
 
