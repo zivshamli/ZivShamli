@@ -23,10 +23,17 @@
 [![JPA](https://img.shields.io/badge/JPA-4D4D4D?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/persistence-jsp.html)
 [![Hibernate](https://img.shields.io/badge/Hibernate-4D4D4D?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/)
 
+## 🗄 Databases
+
+[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![H2](https://img.shields.io/badge/H2-003366?style=for-the-badge&logo=h2&logoColor=white)](https://www.h2database.com/)
+
 ### AI & Machine Learning
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 
 ### Game Development
 
@@ -41,23 +48,25 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
-### Databases
-
-[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-### Hardware
-
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-
 ### Version Control
 
 [![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
+
+### Hardware & Tools
+
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
+
+### Methodologies
+
+[![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)](https://www.scrum.org/)
 
 ---
 
 ## 📈 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/ziv-shamli-86683224a/)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziv-shamli-86683224a/)
 
+📧 **Email:** [zivshamli100@gmail.com](mailto:zivshamli100@gmail.com)
