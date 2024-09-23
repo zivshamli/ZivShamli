@@ -23,7 +23,7 @@
 [![JPA](https://img.shields.io/badge/JPA-4D4D4D?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/technologies/persistence-jsp.html)
 [![Hibernate](https://img.shields.io/badge/Hibernate-4D4D4D?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/)
 
-## 🗄 Databases
+### Databases
 
 [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
