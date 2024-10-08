@@ -3,16 +3,6 @@
 
 ---
 
-### 🌐 Connect with me:
-
-<p align="left">
-<a href="https://linkedin.com/in/ziv shamli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziv shamli" height="30" width="40" /></a>
-<a href="https://kaggle.com/ziv shamli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ziv shamli" height="30" width="40" /></a>
-<a href="mailto:zivshamli100@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="zivshamli100@gmail.com" height="30" width="40" /></a>
-</p>
-
----
-
 ### 💻 Skill Set:
 
 #### **Programming Languages:**
@@ -56,4 +46,15 @@
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://www.unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+</p>
+
+---
+
+### 🌐 Connect with me:
+
+<p align="left">
+<a href="https://linkedin.com/in/ziv shamli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziv shamli" height="30" width="40" /></a>
+<a href="https://kaggle.com/ziv shamli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ziv shamli" height="30" width="40" /></a>
+<a href="mailto:zivshamli100@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="30" width="40" /></a>
+
 </p>
