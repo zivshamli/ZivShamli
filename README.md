@@ -54,7 +54,7 @@
 ### 🌐 Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/ziv shamli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziv shamli" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ziv-shamli-86683224a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziv shamli" height="30" width="40" /></a>
 <a href="https://kaggle.com/ziv shamli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ziv shamli" height="30" width="40" /></a>
 <a href="mailto:zivshamli100@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="30" width="40" /></a>
 
