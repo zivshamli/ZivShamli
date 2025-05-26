@@ -61,7 +61,14 @@
 </p>
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zivshamli&show_icons=true&theme=graywhite&hide_title=false&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zivshamli
+&show_icons=true
+&hide_title=false
+&count_private=true
+&title_color=2c3e50
+&text_color=34495e
+&icon_color=2980b9
+&bg_color=ffffff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zivshamli&layout=compact&theme=graywhite)
 
