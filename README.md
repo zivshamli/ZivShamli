@@ -61,7 +61,7 @@
 </p>
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zivshamli&show_icons=true&theme=tokyonight&hide_title=false&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zivshamli&show_icons=true&theme=graywhite&hide_title=false&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zivshamli&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zivshamli&layout=compact&theme=graywhite)
 
