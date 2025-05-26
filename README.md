@@ -60,8 +60,9 @@
 
 </p>
 
+---
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zivshamli&show_icons=true&hide_title=false&count_private=true&title_color=8B5E3C&text_color=A67C52&icon_color=E07B39&bg_color=FFF7E6)
-
+---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zivshamli&layout=compact&theme=graywhite)
 
