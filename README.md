@@ -59,3 +59,6 @@
 <a href="mailto:zivshamli100@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="30" width="40" /></a>
 
 </p>
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=zivshamli&show_icons=true&theme=tokyonight&hide_title=false&count_private=true)
