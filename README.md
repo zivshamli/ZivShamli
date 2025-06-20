@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Ziv Shamli</h1>
 <p align="center">👨🏻‍🎓 B.Sc. in Software Engineering | Specializing in Artificial Intelligence & Machine Learning 📘 Student at Afeka College of Engineering, Tel Aviv</p>
-<p align="center">👨🏻‍🎓 M.Sc. in Intelligent Systems | Specializing in Artificial Intelligence & Machine Learning 📘 Student at Afeka College of Engineering, Tel Aviv</p>
+<p align="center">👨🏻‍🎓 M.Sc. in Intelligent Systems | Student at Afeka College of Engineering, Tel Aviv</p>
 
 ---
 
