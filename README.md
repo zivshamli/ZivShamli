@@ -4,6 +4,15 @@
 
 ---
 
+
+## 💼 About Me
+
+- 🎓 I'm studying both **B.Sc. & M.Sc.** in **Software Engineering** & **Intelligent Systems**
+- 🧠 I love building smart systems that adapt and respond to real-world input
+- 💬 Fun fact: I once defeated Conor McGregor using only shell scripts 😎
+
+---
+
 ### 💻 Skill Set:
 
 #### **Programming Languages:**
