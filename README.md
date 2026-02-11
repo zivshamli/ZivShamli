@@ -1,13 +1,13 @@
 # Hi 👋, I'm Ziv Shamli
 
-- 👨🏻‍🎓 B.Sc. in Software Engineering | Student at Afeka College of Engineering, Tel Aviv  
+- 👨🏻‍🎓 B.Sc. in Software Engineering Graduate | Afeka College of Engineering, Tel Aviv  
 - 👨🏻‍🎓 M.Sc. in Intelligent Systems | Student at Afeka College of Engineering, Tel Aviv
 
 ---
 
 ## 💼 About Me
 
-- 🎓 I'm studying both **B.Sc. & M.Sc.** in **Software Engineering** & **Intelligent Systems**  
+- 🎓 I'm studying **M.Sc.** in  **Intelligent Systems**  
 - 🧠 I love building smart systems that adapt and respond to real-world input  
 - 💬 Fun fact: I once defeated Conor McGregor using only shell scripts 😎
 
