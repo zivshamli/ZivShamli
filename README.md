@@ -31,7 +31,7 @@
 </a>
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp" />
+    <img src="https://skillicons.dev/icons?i=cpp" alt="c" width="40" height="40" />
 </a>
 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
