@@ -65,7 +65,7 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-  <img src="https://github.com/detain/svg-logos/blob/master/svg/l/langchain-1.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://github.com/detain/svg-logos/blob/master/svg/l/langchain-1.svg" alt="tensorflow" width="80" height="80"/>
 </a>
 </p>
 
@@ -134,9 +134,9 @@
 
 ---
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zivshamli&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziv_shamli&show_icons=true&theme=tokyonight)
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zivshamli&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziv_shamli&layout=compact&theme=tokyonight)
 ---
 
 
