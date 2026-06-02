@@ -134,7 +134,7 @@
 
 ---
 
-![Ziv's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZivShamli&show_icons=true&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=zivshamli&theme=tokyonight)
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziv_shamli&layout=compact&theme=tokyonight)
 ---
