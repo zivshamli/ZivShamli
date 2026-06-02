@@ -133,8 +133,9 @@
 </p>
 
 ---
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziv_shamli&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+
+![Ziv's GitHub stats](https://github-readme-stats.vercel.app/api?username=zivshamli&show_icons=true&theme=tokyonight)
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziv_shamli&layout=compact&theme=tokyonight)
 ---
