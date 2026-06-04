@@ -121,9 +121,7 @@
 </p>
 
 
----
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zivshamli&theme=default)
 ---
 ![Visitors](https://komarev.com/ghpvc/?username=zivshamli&style=flat-square)
 ---
